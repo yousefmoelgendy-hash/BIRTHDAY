@@ -295,7 +295,7 @@
 
     <!-- Screen 2: Candle Blowing -->
     <div class="screen" id="screen2">
-        <h2>اتمني امنيه ودوسي علي الشمعه ونطفيها 🎂</h2>
+        <h2>اتمني امنيه وانفخي في المايك ونطفي الشمعه 🎂</h2>
         <div class="cake-container" onclick="blowOutCandle()">
             <div class="flame" id="flame">🔥</div>
             <div class="cake">🎂</div>
